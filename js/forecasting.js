@@ -528,7 +528,7 @@ $.ajax({
         });
 
         // Default model url for onload
-        loadModel("forecasting/25Feb16_20Mar16_lasso.json");
+        loadModel("forecasting/01Mar16_18Apr16.json");
     }
 });
 
